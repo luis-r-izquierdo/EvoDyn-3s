@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[   1426561,      26636]
-NotebookOptionsPosition[   1420022,      26516]
-NotebookOutlinePosition[   1420578,      26536]
-CellTagsIndexPosition[   1420535,      26533]
+NotebookDataLength[   1425611,      26606]
+NotebookOptionsPosition[   1419075,      26486]
+NotebookOutlinePosition[   1419628,      26506]
+CellTagsIndexPosition[   1419585,      26503]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -62,7 +62,8 @@ Cell[TextData[{
     URL["https://doi.org/10.1016/j.softx.2018.07.006"], None},
   ButtonNote->"https://doi.org/10.1016/j.softx.2018.07.006"],
  "."
-}], "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"],
+}], "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
+}, Open  ]],
 
 Cell[BoxData[
  TagBox[
@@ -1801,7 +1802,7 @@ aEy1oh4pAc0g6XFSixAnnKRjlHUZMBGxKec41eH/APQpYi8=
                GrayLevel[0]], 
               Line[CompressedData["
 1:eJxTTMoPSmViYGAwAWIQDQEf7BlQwCh/lD/KJ4YPALDCP24=
-               "]]}, "Charting`Private`Tag$22081#1"], 
+               "]]}, "Charting`Private`Tag$33845#1"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1823,7 +1824,7 @@ FyPfZuUGZcgOX8c9NTIvqEgdQ87pUS1PIxMnNREfkCn7GLVLyH0nBMwV5Eye
 6dRn5AhlzqId+dxNvR37cXReELtqbfdhB3KG0liFTVsp3sBmiuw7XMgLpZID
 2HpdFB27IcvPx/aW0W5g99s+RrqRC8SyBGyv+PQxbC2xho+96z2tC/tHc4Mc
 O4k8qv6vT4l6g10zlzyPPaNir2F39LO/YQdcyVvXkX8BviNnJg==
-               "]]}, "Charting`Private`Tag$22081#2"], 
+               "]]}, "Charting`Private`Tag$33845#2"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1846,7 +1847,7 @@ tbhcjRzFcp/TIlMizuUtyEq9w9GOXMVbtawDeUieuQN74z5rG3Ze9RmdBTn/
 R111F3KsTOnqQSYLTZRe5AHdcy72YnauAdtTITxuxf9nnaL1Iz+Jo+Ril6Yf
 PIbdmdI6jJ0yIWl6gZzW/NSFvfuWO9qGPEw3SrFLskSN2AGF14a9NbUgjG04
 oVlvR/4NMkdXxw==
-               "]]}, "Charting`Private`Tag$22081#3"], 
+               "]]}, "Charting`Private`Tag$33845#3"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1869,7 +1870,7 @@ J1deWUf7PbLAYR/Y2Ci9vfYDXCcYK7b9BM+IP5U830D3br3UCTfBIaPlJ43I
 utjIhgZhWQIyVU2Z5iDz+waTBMiKHblfsHd1FFYlI0s9S4YU5PbgAa4QeVgY
 RjuDPNN9txu795Q6LR3ZZve/noFcIM+ZzEIWmYnSs8gxvDhqNv4H/8TxHOTZ
 rL1D2PZLZdm5eJ5XtIB9WOOoOIf8G2aaSsQ=
-               "]]}, "Charting`Private`Tag$22081#4"], 
+               "]]}, "Charting`Private`Tag$33845#4"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1892,7 +1893,7 @@ X8C7MxK176fB1kix3mgB89PN0Tsc4MawNyrGEljlXG8a8oANtVvanvnAUuqH
 9+VjPrp/Ob8Ys5Ul9F7BrHTTumswUx1bk15iLjpxN7IXc4tX6erDHCyu7OrH
 /IDfGDBiNhCp7K+YHdeSV2Ywu99Sus2YRwjJ8TbMVeXHZlcwM9TW5u+Y91KE
 7FXM10vptUHMueaL9BDmQXW9kfgTuyf4qHwjZukeNXET5t/2v1AH
-               "]]}, "Charting`Private`Tag$22081#5"], 
+               "]]}, "Charting`Private`Tag$33845#5"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1916,7 +1917,7 @@ TCF4RWcWjmDMF65WnsoFl62aJJw8cJyPozonH2xXpR07Xwhuu6bkE8vAnInB
 hFqMoxTrb39hbGHWP166BMYpQn8OXQF7cwsOCsvB4pSU6DGM2yL9plKkYKey
 ah9dBh45a5DaK8DmXkk3txKzX3xDNYxxRIXzeIccfJ1uJe9QgBuMZffkGNdS
 7boFjO98qFfxqsC/AWvENFc=
-               "]]}, "Charting`Private`Tag$22081#6"], 
+               "]]}, "Charting`Private`Tag$33845#6"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1941,7 +1942,7 @@ iR+IBOQyzJU1LeGAV4cYwcWWyAl51GK2CXL2WvQY05ALHrz8lXF1AVnqy2Ml
 ypFHN5VfTiUjz4pTseQ4ZF7AY0ZdJLKTfIlvEYhcglW8s92LnOq3OE63Q2Yz
 UnqlFsieKj6FargHzn0aK5MtI/swB8nkRWTnJNqlrClk0roiYe498m/ozy96
 
-               "]]}, "Charting`Private`Tag$22081#7"], 
+               "]]}, "Charting`Private`Tag$33845#7"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1966,7 +1967,7 @@ eb9c1f6wHDmmb3zmuTOyt5RL/cqNAFfi2Ylrkcha5eYWCxryCFERGeiFLCFm
 ty6aIhur6l3cOlno316yhyqakD1Gk47phcjdhAKCIg+ZbDOfLwlDPplFziQH
 IMs8muLkFOTwz+GOHx2QK9Lil/IskbekW0ls8Miz5LCIJxhkneGLnrvMBP8G
 lxYfGg==
-               "]]}, "Charting`Private`Tag$22081#8"], 
+               "]]}, "Charting`Private`Tag$33845#8"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -1976,7 +1977,7 @@ lxYfGg==
                GrayLevel[0]], 
               Line[CompressedData["
 1:eJxTTMoPSmViYGDwBWIQPQpGwSgYBcMFAACjfwH7
-               "]]}, "Charting`Private`Tag$22081#9"], 
+               "]]}, "Charting`Private`Tag$33845#9"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2012,7 +2013,7 @@ dlRVen2+L3WbYJlTENuYZFGMu7p2R9ibUEg+sCrelzGLv2vtEgOmz6+Os49x
 7LqTMSY6LkYbv9MGM5YqcoytWriQhcsqRIzZsYdka9RcVD56kRLG+OpA3ekd
 Si4aXypdjjJWHalxiJJxYZXvvOQ4Y620YigrjYtrTtLRKMZrNz37VJ/MhW5F
 UXsMYz1hmPurBC7UX8TnxTHeu/hsr9kJLv4DAiN7tA==
-               "]]}, "Charting`Private`Tag$22081#10"], 
+               "]]}, "Charting`Private`Tag$33845#10"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2048,7 +2049,7 @@ me0bFYBTE5VVQtnaZfPWpb8IUBCTv0hKOTks+p/WHAFM9BaGk5Tn5LC6BDsF
 mGu1IKiC8qnk3KwjkQIsahyyu0p5b6muZwVHgNTtji0NlO9I4ktGWQLkSS8k
 KCg/rOPvabAXgGEx0KSk7Gs8r8+HLkAo90pkK+V7O7K3WQ0FQ6R8zrhLeb2R
 4/QeTTAOZMZWqyjzA9l9N7uCwYvc4v+Icri1TnfsYTD+BSjQYRU=
-               "]]}, "Charting`Private`Tag$22081#11"], 
+               "]]}, "Charting`Private`Tag$33845#11"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2084,7 +2085,7 @@ WZj9Q7Dxhdd+VQkPcdWFLR6Um7+l2Ydu42GSsWlDJuXAv/wWj3dysWYnOzuX
 XkN5R4KbbocHF1HCNp2BMqOzt7PPlos7Vax35pMEW2hb+k10LtoceUZryqc9
 41d4GDhgF9+2dKA8vUv7sEDHQa3aZPk55ZQbLXPuqjjY6/zGwpmy9IPfJeMz
 Drb0lpkWUO5v7znK6uPg+9qpqUWUTY8Li1K7OfgPw893kg==
-               "]]}, "Charting`Private`Tag$22081#12"], 
+               "]]}, "Charting`Private`Tag$33845#12"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2120,7 +2121,7 @@ JMFoStqsOEyAeWlqfB/lF8GTq3s/JZARp3cgmPJdpwfiaAMCCWvTa0IpN9Ni
 +YunOaAv8406SZldXn7U7zUHU1Ma8VXKz+qsgpfWcKC7kq8ppGzgeq6itYyD
 taY0m1LKbTvWBwiuc8CsV2TVUFbsbhEty+CA1K5paaTsesLDajCVg/N03w9P
 KM8L9566w+VAb46DZQfljXtKmPwTHES+63B/RZnuZBsTdJyDfwEfHHID
-               "]]}, "Charting`Private`Tag$22081#13"], 
+               "]]}, "Charting`Private`Tag$33845#13"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2160,7 +2161,7 @@ MrvbOFCarnJTqyUhs1ILDvDnoJLFmGJSHloUnxrmycGd7JKAaMrpKyPmYpkc
 RHicGx2kbGHbmlu6mYNtSRu2FdSR0Nr8gHSU48DjSUZZF2U/B1WV2Gk2Iiuv
 0+fXk4i3zwgXD7Nx1s+ceZQy00ny1PwJG1752mYZlL/EeUvONLKhEOE2X0I5
 ZWps4rmQjckV/9z5SHmB0N1ST8BGVpOFiU4DCe8X/ProbDb+BVuRu58=
-               "]]}, "Charting`Private`Tag$22081#14"], 
+               "]]}, "Charting`Private`Tag$33845#14"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2197,7 +2198,7 @@ VNrNRIMqLgaC39lpzBHxKco+SE/AxdikyZc5ORF+7JU0SjIXPSmU9isXiBCc
 CbGyP87Fn563h0KOEXF2JsaQEcfFrQR9PecwIppnSZ9j2FwcSjgSSnYlQjOn
 rfN8ABe25x2jrTYSUVlyrkzoywX/RI0v3ZAIkwf+J5t+4CJ8vF81agkR3V4+
 dIUrF3lJOYmC+WX4B/j5Q/w=
-               "]]}, "Charting`Private`Tag$22081#15"], 
+               "]]}, "Charting`Private`Tag$33845#15"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2234,7 +2235,7 @@ xMUVRdsfCeTEe/8K+4L0hf9mWYnLDTmR4CybMosnMXbbqzIsSU4wWOFpJ0JI
 LG6MqLP2XPCFnIN7AkiIeyKXzDvKCV0lD4Z7Scyss7r5xlJOPFfdZjdAkPDJ
 PhlVoykn/LLcidYdJDxjqhOrVeTEPR6fVmlD4uVYhDFraILo5V09yaWQMHhX
 YX/t2QTRN87KTTcm4X5mVvPXygniX2+WS6s=
-               "]]}, "Charting`Private`Tag$22081#16"], 
+               "]]}, "Charting`Private`Tag$33845#16"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2271,7 +2272,7 @@ Q5Bjc1EUryVAP/M61WhOAy55BqIOJQF9hK1iQqMBVrTnYv5lAla0LY+ZqNHA
 dNUb9sAhApIUuXafgAbcrCgnsgQEzB9g5PxmrYGy0w9f+wUR4KMwrKRRNLCn
 kaKeciOgs9ErOk01CJZ5+Y799gQkOpmNhEgHobHLKazbjAA1P1uyrWIQNu5N
 Cun+lID0WyMZ3PRBeFekS+1fUMB6IjY5Jn4Q/gXY6ENz
-               "]]}, "Charting`Private`Tag$22081#17"], 
+               "]]}, "Charting`Private`Tag$33845#17"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2307,7 +2308,7 @@ mxTnJZiW5Jr0ZQ+Fgfef/2W9TYLauYWLV9A+/u5ta7GvBMJq+xZv2oe6ta+W
 eNB9K+1ADG3r1rAYRycJCtU77jfR3k6Mfzo0U4JjXP5qHe3+Ik6vGVMChwVH
 LgzQlqlEjNIJAjHabA/zXgqeXerYwdcEKl0z0hfS5jG3Xj1tILBEoNZwaYc8
 tVrv9pjA0q+DpoH2MeZHG4OeAEvk6BZMu2Rx895sDYF/AbzBaOc=
-               "]]}, "Charting`Private`Tag$22081#18"], 
+               "]]}, "Charting`Private`Tag$33845#18"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2343,7 +2344,7 @@ ew+eMsj2ETB//dy6tZxGrd57CWEuwEoTaXwkYz+XiLYBEwE6H9FfpzF+1vc0
 ecJAgHrODOdWxuOarsKlWj62zTEY9KmgofVvI/IH+RgS+dkeY8zrEScSPXyU
 Eq4RGYyNRzYpptr5eBNnXt/G2HGThPRt4mOuFaubYryze7idJ+cjtavihclt
 GudSmjZVSvkozJ3/0o6xlsv1GJHwcffGmh5fxh873Foti/j4FzXnejI=
-               "]]}, "Charting`Private`Tag$22081#19"], 
+               "]]}, "Charting`Private`Tag$33845#19"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2380,7 +2381,7 @@ s1gxxMf6D/tmSilPmBT/fa6Lj8NWumW54SS8TJk5vXl8PNq41OkN5UzOxErX
 bD625DlkGkWQELLHg0SX+Qi5Fr4smbLNHRttLpePe4sK3OopV7jNcGTH+Ejs
 m/b5RNlj/tH0vQf4YNE53s4c6q9V2eF2Xz4CuNobTlIOKnfWeG3n418jdWxC
 
-               "]]}, "Charting`Private`Tag$22081#20"], 
+               "]]}, "Charting`Private`Tag$33845#20"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2417,7 +2418,7 @@ oeGmvakWrgWe9sVsAiZHPrAXm2mxdO/V/Kg4AunZjkH/mGsRyyHLZLsI0KO3
 jZyiaiFvPZXhsZ2As1LlO2lwEcPl6zwGgavTToxBCy2eOgg+P7aRQN/jN6NR
 llocLmGHP6MTWDBYGyIz+JnIPcbH1fDPlMsJtNKCznrqc8+JQNHAg2Nig290
 Bb6xsyfwL86/a/s=
-               "]]}, "Charting`Private`Tag$22081#21"], 
+               "]]}, "Charting`Private`Tag$33845#21"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2454,7 +2455,7 @@ yBi6KPccXcDBA4vwpcECMsrfFHaafmJjMiZVcI9JBj2AuzPjJRu0MwO1Eh8y
 Io5I5wv62XgsmVpjDzISqVZElYwN88D1rEJbMlSJ0bqbxGyM3+zi1RiQ0Vwa
 OxRQxwYxsN4+YI6E8bgG7VQhG/cE9SztdyTkqiQh1WVsBJcaTFY/J2FNJVF/
 ooiN1bRRy4QnJPwDQ/NSmw==
-               "]]}, "Charting`Private`Tag$22081#22"], 
+               "]]}, "Charting`Private`Tag$33845#22"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2491,7 +2492,7 @@ kX5OdVsdSgDna/3M8smwFXM4Nh4EdovZhH8yGZZrqTWdawicKflcuM2NjETp
 XwquEYGirkadVfZkBHl8b0IlEwjbKRXNW5Gx9bJ9fsU8E9y8+J0jJDKq+r9+
 Ej3NBPv0DK9vThd0YaaRzRgTeUKS7Yfnutgrtg6aG2RCvrBYYN2iC7JEmCHt
 Z4JuILl1WKiLfwAl+Uud
-               "]]}, "Charting`Private`Tag$22081#23"], 
+               "]]}, "Charting`Private`Tag$33845#23"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2528,7 +2529,7 @@ I3ov5v3oL0o0vHL1Q1OiGrFExS8DeyZRiPvvs5mCeVRcmhS146sCvZWPEZXm
 hUoy4vLJLgpU3Ti6tveYCi1ixzrXWyiQ6XgFPvaAClGSD7laaOSommovtNv+
 43fjlE7P5ajmxs6NA2YqVBsTFCXmyNHhTE7DPc0c4u5IF+SVy9GYLTutZWIO
 BY7Tp369JEe8xQaVPMkcKnzb9MQtRo4K+vrfS7rm0L9aO0zC
-               "]]}, "Charting`Private`Tag$22081#24"], 
+               "]]}, "Charting`Private`Tag$33845#24"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2564,7 +2565,7 @@ v4g4LllwaMpCBgw39wyLuD2RMc0hNpNXXdvrT2FADovgRQw+P9wypmQxhQje
 +XBztw+Fudlvrxz0YWAVYeVrTKyfye2b7Mfg8LmaSxJvCrILRdxtxDm1f7mf
 Ii71sveTEm/yMXrtTMxzn7z+yGIG3G6TgQ9cYvlAro7Y3eKJ6yPiA1tnRIb6
 M7ifaizcR/z8q47X5cSeJ6vcw4gXfUizmhjA4F/oUmzy
-               "]]}, "Charting`Private`Tag$22081#25"], 
+               "]]}, "Charting`Private`Tag$33845#25"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2657,7 +2658,7 @@ izT68pksgcPebBCI3K4vzGl/89L5WHS+edFrGjpQc+pTObpnPIvev5gFrnqa
 XHI+bFBqCckvQNeYKhHdaFE+iMpCb5z/rCvqywahLDWvm+jQce1zu9BPX4PD
 eXQFP3XzAXrplW3uvugbzoH+zehRR4nwY2gVF+dN3KfYoD1S/tgaPf24/vMm
 dAVTsnUv2r2evs8Z/T8yVzxf
-               "]]}, "Charting`Private`Tag$22081#26"], 
+               "]]}, "Charting`Private`Tag$33845#26"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2808,7 +2809,7 @@ YF/p5Rgm2uZLbcodWw58HvtvTGGaCevXLHm1xo4DeZ9eMRLQL1ZWLPKz54D2
 vAjNm/i9svyESPpPBw7k/6fQWofOcHnOiN7OgRtCjvHzZpmwtNmzQcORAxEO
 yzTC0Ynq6wcOOnGgZMUV3kp007tsaV5nnJ+GaN8/dPTp6Jn76B+s9CaLPxg/
 9dlUUxcOfGtfUReMHi+X/UNH/w+MLmKg
-               "]]}, "Charting`Private`Tag$22081#27"], 
+               "]]}, "Charting`Private`Tag$33845#27"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2850,7 +2851,7 @@ HKnGRrzO2eRZLVzUcn2LFkxjo3DdaIVfDRduXvwe/icWFkcGla56xIVnZ3We
 VgcLFEabyshFLlbYr93veo+F6y7l/YHRXPQbDomsUlig017veMvkYhu1SWIQ
 x4LI52VaP52LkHk11UuPs9BsXxYTup+LyKSamxa+in+Nsg8TblwIqCVfnT1Y
 EIfatMbSuJD0qb+i01iwvkSu0XHkwsvaceMlexb+BZSS+Fo=
-               "]]}, "Charting`Private`Tag$22081#28"], 
+               "]]}, "Charting`Private`Tag$33845#28"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2887,7 +2888,7 @@ TH7rnbMlM+HN8/1KsETBYWWV17MLDJApwdGToxSMXNpZk9vBQJRYNiziUXBy
 sHWB28iA4Y2DPtXJFGS0Z+/gXmeA4htzOyeaApFCCq2Iy4DPbd3LnCMUaK2K
 1WsTGHjD5a0VfE2B27OB+13sj18+9leDFQUfFLj0p6EMZF388+C4EQWCVuMy
 og8DpOdCNTVNCv4FQwY9TA==
-               "]]}, "Charting`Private`Tag$22081#29"], 
+               "]]}, "Charting`Private`Tag$33845#29"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2924,7 +2925,7 @@ Auc9xEo9JQnvC5i95iMEemOfac1ISSiasohc0U5gU0624ZlAEk5SD8/qFxII
 tlQ+H3Qn4ZFqc7Q4moDRA7XAASRobeRLk/YR4Ef4CxYZkzD95IyptzOBqua9
 1XlkEgQezcydawlMzrrhYTsxGwsLecWBDALa4Y/t7z6ZDUbwYGIcjYDY3sQ1
 uXs2XnFUxSJtAv8BpBw4Kg==
-               "]]}, "Charting`Private`Tag$22081#30"], 
+               "]]}, "Charting`Private`Tag$33845#30"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -2960,7 +2961,7 @@ r7Gb/5B6WuWoRyH1tTBubju1aDLpUAH1suIuv27qtogvHHKoK1dcLnpOve9G
 QXM2tdhFShTUptHO+CxqTzuDZx91++O9905RXwnpe6ii3mb/595M6v6gizPV
 1LwbfgszqCMl56O07/+xuPXoBLWzz4MLempZ8rKMdOo0FV/FUP8HkpJ1dQ==
 
-               "]]}, "Charting`Private`Tag$22081#31"], 
+               "]]}, "Charting`Private`Tag$33845#31"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3050,7 +3051,7 @@ RZK2j9DLb4o1s9ET9ew9C+j4HubvHOkkuNUIBrBMYH9ooOEmhA5awyTIjbZw
 dRuSRo89C9CVQpeS2ZUq6P6SzkhdtNHUejF3dIzVe24j9Fy6uVMQWqbwcaIV
 eldkdl4EusWH45Y7mq4WL5mOVggN5QlAR+zaeyIfLWf/ISoUvSWbKbQS/Y3G
 snQV7bxxIacOnd/G65GI7tWWam5H/w/jVqa0
-               "]]}, "Charting`Private`Tag$22081#32"], 
+               "]]}, "Charting`Private`Tag$33845#32"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3145,7 +3146,7 @@ xUyNomfR3PX3l2r1siDy1Xd4W8KDxYfs7n7jsUDkXai4YSkPsrY0ye3sY0F1
 +nK1TPQF1X8SHqLjn95QE3rDgw0frBXP9rOApnY1fEI3u+vpfUOL9sV6KpXx
 wMY0Zq/2fyzIYo7wItHis4dWp6AlU10M/kOfnvVqERhgwcONAzdMynnwP86M
 0ZQ=
-               "]]}, "Charting`Private`Tag$22081#33"], 
+               "]]}, "Charting`Private`Tag$33845#33"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3226,7 +3227,7 @@ brrlkRZ/eNvOXfTH0BMXWoRNj1X5Q/fCduWmjZ740drhmJrkD5fTCx8mzvZE
 MNd0+YVd/lhpkZza+8wD64zixPu0/ZGfeKVMstwDruptc/XW+mPXcC9vb7YH
 LN66ai2f4Q/RZo0W4bMeGDMeNMn/44c79bUXvE54YGForAFnyA8pjwMEv9h6
 oPzon4XtHX6QDMxc4rPdA6VtBa0n6/2wu+h47wx44H+ukAp+
-               "]]}, "Charting`Private`Tag$22081#34"], 
+               "]]}, "Charting`Private`Tag$33845#34"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3263,7 +3264,7 @@ k1gZ4jkSSs20gj9n0GGaqxJvaCbB6WN36N6TdJw9ovigEUHCPLX/STWZjvU9
 Tc/u+ZFg5BXsus2YjpWZWWKOMwmB419SWjXoGDukViyuIeEoizSzYpSGAcGC
 wZAmCVS+Q397Bw1emtLB7llLbJ5km4qqaGi/vcZcrrDELDf33vECGmTSyqa5
 ZkuMXY3geaXR8A/geUyR
-               "]]}, "Charting`Private`Tag$22081#35"], 
+               "]]}, "Charting`Private`Tag$33845#35"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3298,7 +3299,7 @@ t3OJN0uTEx8SO47xnm4hnjDgGiVxJftqA2Or+MH3VcRnueviGGcc3XiGsdDW
 eD2WWNhmbFQTRwbHCDcTz/oyt1VDHHeiIIQxt/Y9Xy2xVkEbY4gPDoVJGZdM
 7khlPJNSKtMxf/dzljO+alO5Wk9sF949HE1s7eYrY1yi4Bxl3PIN389AnOFn
 /RXjTU7REsb/Af9Qd1k=
-               "]]}, "Charting`Private`Tag$22081#36"], 
+               "]]}, "Charting`Private`Tag$33845#36"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3389,7 +3390,7 @@ HnXeES02/rzYH71A+pRz0d8PTdsEo9mflt4pQGtI1iyKQo9Wt00Xo6fc53em
 oJnzVMEHNPOYYFQ5mhF+cYrJskiFaC26KvspTLLsyJ7ahD5gqREyh5Z133+/
 B51w0XQRXwYTfk0YSNFogauDmqLoqXwSP44OgU4PSfTcgiz/LLpxWCVDDt10
 aObyomHsR+3k82b0/wD5h3IL
-               "]]}, "Charting`Private`Tag$22081#37"], 
+               "]]}, "Charting`Private`Tag$33845#37"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3486,7 +3487,7 @@ TTsupPjc9bRAR4Tse34WHenFtQtBW15N7f6FHm5YJjyOHpUYgu/2XAjbxjJq
 XsuDTH2VFrXjGF+c0mNJNR60i+2ydUVb79Xp2YrWdPNYzkOTsHebctHLYgMd
 VjlwgfbYqDeAFvOLuOmIdj7dtF5ZnQc1ddmPk9DFWunzD6H32zExNFrD51VL
 OPp/MynpAg==
-               "]]}, "Charting`Private`Tag$22081#38"], 
+               "]]}, "Charting`Private`Tag$33845#38"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3523,7 +3524,7 @@ lXuum4Yikcg1xToFb/N1S40FNGQO8ripKjZ6mIZN+gwaSsJmNBK4bCSObPtg
 FU2DGj9MGUZnY2LjE7JXCA17auq1w8LYWMwW11V40jChq5F+14kNXX2B+scD
 NPS+7OvpMWdD0d5of8yOhiT3mNWWWmxYRhi7FlrQsMrxhWnSFAsczmtbXUMa
 sgNfLUzJWPgXdC9m9A==
-               "]]}, "Charting`Private`Tag$22081#39"], 
+               "]]}, "Charting`Private`Tag$33845#39"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3557,7 +3558,7 @@ RH0mf1rdmfjn2rIgaqmWAXdqcf6UEXX0xMFy6htDvh0axPGhrqddaF643Yo6
 8eKOpEeuxBWJG1PUTRl2IupR3NtBze3gMd2Itb4qz6XutPgjhvrrLE8T6qXN
 IRV34hjj35nUsbopDtQBnzK31Oh+TYxYasXFT/qp9URPHlP7hY80UDu8W35N
 ndadWUgd6Lal5EEc+uazVOpfdpPDQ1z9l1U0NSutLor6P9YKZEk=
-               "]]}, "Charting`Private`Tag$22081#40"], 
+               "]]}, "Charting`Private`Tag$33845#40"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3648,7 +3649,7 @@ W9ANGyzp5+j7TGCj4As2zNnZ3fcKXaZsqiiK3lftMPYGLTB2xUscvZn73axi
 tKniiZVy6IwPfP/a0MFsf/Xt6Ojl8wd/cr4vcN/ZAM2+t7azFz3xs+OtIbrP
 I63wL3pvh7P8cfT6HvHkGbTQokLT02jejfHB/HgfLxE/HnQO/bZ19zVB9BGv
 XUXW6HsHF5iIol9+ut9vj/4fwlqbDA==
-               "]]}, "Charting`Private`Tag$22081#41"], 
+               "]]}, "Charting`Private`Tag$33845#41"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3684,7 +3685,7 @@ RFtiGUSu8FkXRazKOpIaQ6wW8lNOEce7tyUXEE9yS9v6iduHZRt7iH0kjT8l
 XaZQkRbB5R9m8EJQfKSMeGOXw5MU4jBPo1sbcX28IOYccX+pS6Z9LYVvva8I
 n378D8yd401cs+DOvXFiXk9xyR5if1Xi4kVxDDYdvTRN/PEPV8TxiOe9Cj9c
 S7xJ9KhuP/F/Ir97HA==
-               "]]}, "Charting`Private`Tag$22081#42"], 
+               "]]}, "Charting`Private`Tag$33845#42"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3718,7 +3719,7 @@ Lx2nPut7aIW6maeyI0OchdqCo4nHOKx31K4OX0dTX+v/dpG6ZFaQQn17f/A1
 9VHN6ULq97eWuqkFXf6D/+0/dmqnLs8sHaN+m1LbRF2zOzRDnRmVUkEtp3Vw
 n9q1BBdR6/5tIhdDrGXOzaWeSbXWpGabzmVSd8lYfkzNyI6+Qr2eZ2hF/S+O
 G1QT
-               "]]}, "Charting`Private`Tag$22081#43"], 
+               "]]}, "Charting`Private`Tag$33845#43"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3754,7 +3755,7 @@ houLysg8rz3J4lfmvZ4r1W+Yv7u1p6iZuSCf1zdFQTEkgbyXWbVPcH8Oc1h/
 WJqWmeOJ7zgyp9d1uT5lDsyS/enKfPTejvzXzFmDqPFmjogWhw4zJ5u0Py1m
 /kzkNTTOLBFuFPsz9yfElr5jHratz17OnDvdIsrcRFBk+VwYwvwfsC+GYw==
 
-               "]]}, "Charting`Private`Tag$22081#44"], 
+               "]]}, "Charting`Private`Tag$33845#44"], 
             Annotation[{
               Directive[
                Opacity[1.], 
@@ -3764,7 +3765,7 @@ WJqWmeOJ7zgyp9d1uT5lDsyS/enKfPTejvzXzFmDqPFmjogWhw4zJ5u0Py1m
                GrayLevel[0]], 
               Line[CompressedData["
 1:eJxTTMoPSmViYGAwAWIQDQEP7Ff5RLyo2vbafpQ/yh/lE88HAKvVKX0=
-               "]]}, "Charting`Private`Tag$22081#45"]}}, {}}, {{
+               "]]}, "Charting`Private`Tag$33845#45"]}}, {}}, {{
            Arrowheads[0.03], 
            Arrow[{{1., 0.}, {1., 0.}}]}, {
            Arrowheads[0.03], 
@@ -7323,34 +7324,34 @@ KGBxSrduKqWgjt9y65OJAFXRCoo2S8k4c2TU9u1qMv4BIkfuRA==
           PlotRange -> {{0, 1}, {0, 1}}}], 
         "WatermelonColors"]}}, $CellContext`maxTimeOut$$ = 
     1, $CellContext`rest$$ = Or[
-     And[$CellContext`x1$20718 == 0, $CellContext`x2$20718 == 
-      0, $CellContext`x3$20718 == 1], 
-     And[$CellContext`x1$20718 == 0, $CellContext`x2$20718 == 
-      Rational[2, 3], $CellContext`x3$20718 == Rational[1, 3]], 
-     And[$CellContext`x1$20718 == 0, $CellContext`x2$20718 == 
-      1, $CellContext`x3$20718 == 0], 
-     And[$CellContext`x1$20718 == Rational[1, 3], $CellContext`x2$20718 == 
-      0, $CellContext`x3$20718 == Rational[2, 3]], 
-     And[$CellContext`x1$20718 == Rational[1, 3], $CellContext`x2$20718 == 
-      Rational[1, 3], $CellContext`x3$20718 == Rational[1, 3]], 
-     And[$CellContext`x1$20718 == Rational[2, 3], $CellContext`x2$20718 == 
-      Rational[1, 3], $CellContext`x3$20718 == 0], 
-     And[$CellContext`x1$20718 == 1, $CellContext`x2$20718 == 
-      0, $CellContext`x3$20718 == 
-      0]], $CellContext`restPoints$$ = {{$CellContext`x1$20718 -> 
-      0, $CellContext`x2$20718 -> 0, $CellContext`x3$20718 -> 
-      1}, {$CellContext`x1$20718 -> 0, $CellContext`x2$20718 -> 
-      Rational[2, 3], $CellContext`x3$20718 -> 
-      Rational[1, 3]}, {$CellContext`x1$20718 -> 0, $CellContext`x2$20718 -> 
-      1, $CellContext`x3$20718 -> 0}, {$CellContext`x1$20718 -> 
-      Rational[1, 3], $CellContext`x2$20718 -> 0, $CellContext`x3$20718 -> 
-      Rational[2, 3]}, {$CellContext`x1$20718 -> 
-      Rational[1, 3], $CellContext`x2$20718 -> 
-      Rational[1, 3], $CellContext`x3$20718 -> 
-      Rational[1, 3]}, {$CellContext`x1$20718 -> 
-      Rational[2, 3], $CellContext`x2$20718 -> 
-      Rational[1, 3], $CellContext`x3$20718 -> 0}, {$CellContext`x1$20718 -> 
-      1, $CellContext`x2$20718 -> 0, $CellContext`x3$20718 -> 
+     And[$CellContext`x1$32481 == 0, $CellContext`x2$32481 == 
+      0, $CellContext`x3$32481 == 1], 
+     And[$CellContext`x1$32481 == 0, $CellContext`x2$32481 == 
+      Rational[2, 3], $CellContext`x3$32481 == Rational[1, 3]], 
+     And[$CellContext`x1$32481 == 0, $CellContext`x2$32481 == 
+      1, $CellContext`x3$32481 == 0], 
+     And[$CellContext`x1$32481 == Rational[1, 3], $CellContext`x2$32481 == 
+      0, $CellContext`x3$32481 == Rational[2, 3]], 
+     And[$CellContext`x1$32481 == Rational[1, 3], $CellContext`x2$32481 == 
+      Rational[1, 3], $CellContext`x3$32481 == Rational[1, 3]], 
+     And[$CellContext`x1$32481 == Rational[2, 3], $CellContext`x2$32481 == 
+      Rational[1, 3], $CellContext`x3$32481 == 0], 
+     And[$CellContext`x1$32481 == 1, $CellContext`x2$32481 == 
+      0, $CellContext`x3$32481 == 
+      0]], $CellContext`restPoints$$ = {{$CellContext`x1$32481 -> 
+      0, $CellContext`x2$32481 -> 0, $CellContext`x3$32481 -> 
+      1}, {$CellContext`x1$32481 -> 0, $CellContext`x2$32481 -> 
+      Rational[2, 3], $CellContext`x3$32481 -> 
+      Rational[1, 3]}, {$CellContext`x1$32481 -> 0, $CellContext`x2$32481 -> 
+      1, $CellContext`x3$32481 -> 0}, {$CellContext`x1$32481 -> 
+      Rational[1, 3], $CellContext`x2$32481 -> 0, $CellContext`x3$32481 -> 
+      Rational[2, 3]}, {$CellContext`x1$32481 -> 
+      Rational[1, 3], $CellContext`x2$32481 -> 
+      Rational[1, 3], $CellContext`x3$32481 -> 
+      Rational[1, 3]}, {$CellContext`x1$32481 -> 
+      Rational[2, 3], $CellContext`x2$32481 -> 
+      Rational[1, 3], $CellContext`x3$32481 -> 0}, {$CellContext`x1$32481 -> 
+      1, $CellContext`x2$32481 -> 0, $CellContext`x3$32481 -> 
       0}}, $CellContext`restRegions$$ = {}, $CellContext`SBRsampleSize$$ = 
     1, $CellContext`step$$ = Rational[1, 8], $CellContext`testSetRule$$ = 
     "all", $CellContext`tieBreakingRuleBEP$$ = 
@@ -10752,7 +10753,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ]}, {
          Column[{
            Manipulate`Place[12], 
            Manipulate`Place[13]}]}]], Manipulate`Dump`ThisIsNotAControl}, {{
-       Hold[$CellContext`SBRsampleSize$$], 1, "sample size"}, 1, 5, 1}, {{
+       Hold[$CellContext`SBRsampleSize$$], 1, "sample size"}, 1, 10, 1}, {{
        Hold[$CellContext`tieBreakingRuleSBR$$], "unif", "tie breaker"}, {
       "min", "unif", "stick-min", "stick-unif"}}, {
       Hold[
@@ -14182,7 +14183,7 @@ $CellContext`x3$}, $CellContext`restPoints$$]]]}],
                     Reals]& , 
                     
                     ReplaceAll[$CellContext`restRegions$$, {$CellContext`x1$ -> 
-                    2 ($CellContext`y$/Sqrt[3]), $CellContext`x2$ -> 
+                    2 $CellContext`y$/Sqrt[3], $CellContext`x2$ -> 
                     1 - $CellContext`x$ - $CellContext`y$/Sqrt[
                     3], $CellContext`x3$ -> $CellContext`x$ - $CellContext`y$/
                     Sqrt[3]}]]]], $CellContext`maxTimeOut$$, 
@@ -14289,10 +14290,9 @@ $CellContext`f$$ =!= $CellContext`BNN, $CellContext`exactEigenvalues$$ =!= \
               Column[{
                 Pane[
                  Text[
-                  
-                  Style[((
-                    "The symbolic computation of the rest points of this \
-dynamic takes longer than " <> ToString[$CellContext`maxTimeOut$$]) <> "s.") <> 
+                  Style[
+                  "The symbolic computation of the rest points of this \
+dynamic takes longer than " <> ToString[$CellContext`maxTimeOut$$] <> "s." <> 
                    If[$CellContext`maxTimeOut$$ < 10, 
                     " You may wish to increase the maximum time allowed to \
 compute the rest points.", ""], 12, FontFamily -> "Palatino"]], 400, 
@@ -14301,11 +14301,10 @@ compute the rest points.", ""], 12, FontFamily -> "Palatino"]], 400,
                Column[{
                  Pane[
                   Text[
-                   
-                   Style[((
-                    "The symbolic computation of the eigenvalues of the \
+                   Style[
+                   "The symbolic computation of the eigenvalues of the \
 Jacobian at the rest points takes longer than " <> 
-                    ToString[$CellContext`maxTimeOut$$]) <> "s.") <> 
+                    ToString[$CellContext`maxTimeOut$$] <> "s." <> 
                     If[$CellContext`maxTimeOut$$ < 10, 
                     " You may wish to increase the maximum time allowed to \
 compute the eigenvalues.", ""], 12, FontFamily -> "Palatino"]], 400, 
@@ -17705,7 +17704,7 @@ $CellContext`ForceNumber[#])& ], Number, FieldSize -> 3]& ], ControlPlacement ->
           Column[{
             Manipulate`Place[12], 
             Manipulate`Place[13]}]}], {{$CellContext`SBRsampleSize$$, 1, 
-          "sample size"}, 1, 5, 1, ImageSize -> Small, Appearance -> 
+          "sample size"}, 1, 10, 1, ImageSize -> Small, Appearance -> 
          "Labeled", ControlPlacement -> 
          14}, {{$CellContext`tieBreakingRuleSBR$$, "unif", "tie breaker"}, {
          "min", "unif", "stick-min", "stick-unif"}, ImageSize -> Small, 
@@ -17840,9 +17839,9 @@ $CellContext`maxTimeOut$$}, AutorunSequencing -> {{14, 20}}, Alignment -> Top,
          Table[
          Part[$CellContext`x, $CellContext`i] 
           Sum[Boole[$CellContext`j != $CellContext`i] 
-            Sum[((Part[$CellContext`P, $CellContext`i, $CellContext`k] 
-                Part[$CellContext`P, $CellContext`j, $CellContext`m]) 
-               Part[$CellContext`x, $CellContext`j]) ((
+            Sum[Part[$CellContext`P, $CellContext`i, $CellContext`k] 
+              Part[$CellContext`P, $CellContext`j, $CellContext`m] 
+              Part[$CellContext`x, $CellContext`j] ((
                 Exp[Part[$CellContext`A, $CellContext`i, \
 $CellContext`k]/$CellContext`\[Eta]] - Exp[
                 Part[$CellContext`A, $CellContext`j, \
@@ -17875,13 +17874,11 @@ $CellContext`\[Alpha], $CellContext`k, "min"], $CellContext`SBR[
            Blank[]], 1], 
          Pattern[$CellContext`tieBreaker, 
           Blank[]]] := Total[
-          
-          Map[$CellContext`BRIndicator[$CellContext`x, $CellContext`A, #, \
-$CellContext`\[Alpha], $CellContext`tieBreaker] Apply[Times, 
-             Part[$CellContext`x, #]]& , 
-           
-           Tuples[{1, 2, 
-            3}, $CellContext`k]]] - $CellContext`x, $CellContext`BRIndicator[
+          Map[$CellContext`BRIndicator[$CellContext`x, $CellContext`A, 
+             First[#], $CellContext`\[Alpha], $CellContext`tieBreaker] 
+           Last[#]& , 
+           $CellContext`possibleEventsWithProbabilities[$CellContext`k, \
+$CellContext`x]]] - $CellContext`x, $CellContext`BRIndicator[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -17896,11 +17893,9 @@ $CellContext`\[Alpha], $CellContext`tieBreaker] Apply[Times,
               Table[
                Diagonal[$CellContext`A], 3]] + (
              1 - $CellContext`\[Alpha]) $CellContext`A, $CellContext`v, \
-$CellContext`bestResponse1}, $CellContext`v = Dot[$CellContext`B, 
-            Total[
-             Map[
-             UnitVector[
-              3, #]& , $CellContext`\[Phi]]]]; $CellContext`bestResponse1 = 
+$CellContext`bestResponse1}, $CellContext`v = 
+          Dot[$CellContext`B, $CellContext`\[Phi]]; \
+$CellContext`bestResponse1 = 
           Table[1, 3] + Sign[$CellContext`v - Max[$CellContext`v]]; 
          Switch[$CellContext`tieBreaker, "min", 
            UnitVector[3, 
@@ -17914,7 +17909,23 @@ $CellContext`bestResponse1}, $CellContext`v = Dot[$CellContext`B,
            "stick-unif", $CellContext`x $CellContext`bestResponse1 + (1 - 
              Total[$CellContext`x $CellContext`bestResponse1]) 
             Normalize[$CellContext`bestResponse1, 
-              Total]]], $CellContext`SBRUnif[
+              Total]]], $CellContext`possibleEventsWithProbabilities[
+         Pattern[$CellContext`numDraws, 
+          Blank[]], 
+         Pattern[$CellContext`probabilities, 
+          Blank[List]]] := 
+       Module[{$CellContext`events = $CellContext`possibleEvents[
+            Length[$CellContext`probabilities], $CellContext`numDraws]}, 
+         Map[{#, Apply[Multinomial, #] 
+           Apply[Times, $CellContext`probabilities^#]}& , \
+$CellContext`events]], $CellContext`possibleEvents[
+         Pattern[$CellContext`numTypes, 
+          Blank[]], 
+         Pattern[$CellContext`numDraws, 
+          Blank[]]] := Flatten[
+         Map[Permutations, 
+          IntegerPartitions[$CellContext`numDraws, {$CellContext`numTypes}, 
+           Range[0, $CellContext`numDraws]]], 1], $CellContext`SBRUnif[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -17969,10 +17980,10 @@ $CellContext`TrialsSupportingFunctions[$CellContext`x, $CellContext`A, \
 $CellContext`trials, $CellContext`p, $CellContext`\[Alpha]]; MapIndexed[
             
             Function[{$CellContext`listOfPayoffProbPairs, \
-$CellContext`listedIndex}, (2 Part[$CellContext`x, 
-                First[$CellContext`listedIndex]]) 
-             Sum[(Boole[$CellContext`j != First[$CellContext`listedIndex]] 
-                Part[$CellContext`x, $CellContext`j]) Total[
+$CellContext`listedIndex}, 2 Part[$CellContext`x, 
+               First[$CellContext`listedIndex]] 
+             Sum[Boole[$CellContext`j != First[$CellContext`listedIndex]] 
+               Part[$CellContext`x, $CellContext`j] Total[
                  Map[
                   Function[$CellContext`payoffProbPair, ReplaceAll[
                     Part[$CellContext`PDFunctions, 
@@ -18036,23 +18047,7 @@ trials, #]& , $CellContext`\[Alpha]
           MapThread[$CellContext`TurnListIntoFunctionOf, \
 {$CellContext`payoffPMFs, $CellContext`pv}]; {$CellContext`payoffPMFs, \
 $CellContext`CDFunctions, $CellContext`CDStrictFunctions, \
-$CellContext`PDFunctions}], $CellContext`possibleEventsWithProbabilities[
-         Pattern[$CellContext`numDraws, 
-          Blank[]], 
-         Pattern[$CellContext`probabilities, 
-          Blank[List]]] := 
-       Module[{$CellContext`events = $CellContext`possibleEvents[
-            Length[$CellContext`probabilities], $CellContext`numDraws]}, 
-         Map[{#, Apply[Multinomial, #] 
-           Apply[Times, $CellContext`probabilities^#]}& , \
-$CellContext`events]], $CellContext`possibleEvents[
-         Pattern[$CellContext`numTypes, 
-          Blank[]], 
-         Pattern[$CellContext`numDraws, 
-          Blank[]]] := Flatten[
-         Map[Permutations, 
-          IntegerPartitions[$CellContext`numDraws, {$CellContext`numTypes}, 
-           Range[0, $CellContext`numDraws]]], 1], $CellContext`MapAtColumn[
+$CellContext`PDFunctions}], $CellContext`MapAtColumn[
          Pattern[$CellContext`f, 
           Blank[]], 
          Pattern[$CellContext`l, 
@@ -18131,8 +18126,8 @@ $CellContext`trials, $CellContext`p, $CellContext`\[Alpha]]; MapIndexed[
             Function[{$CellContext`listOfPayoffProbPairs, \
 $CellContext`listedIndex}, Part[$CellContext`x, 
                First[$CellContext`listedIndex]] 
-             Sum[(Boole[$CellContext`j != First[$CellContext`listedIndex]] 
-                Part[$CellContext`x, $CellContext`j]) Total[
+             Sum[Boole[$CellContext`j != First[$CellContext`listedIndex]] 
+               Part[$CellContext`x, $CellContext`j] Total[
                  Map[
                   Function[$CellContext`payoffProbPair, ReplaceAll[
                     Part[$CellContext`PDFunctions, 
@@ -18308,11 +18303,11 @@ $CellContext`listedIndex},
                     First[$CellContext`listedIndex]] -> 
                    First[$CellContext`payoffProbPair]}] Sum[
                   
-                  If[$CellContext`h == First[$CellContext`listedIndex], 
-                   0, (Part[$CellContext`x, $CellContext`h] ReplaceAll[
+                  If[$CellContext`h == First[$CellContext`listedIndex], 0, 
+                   Part[$CellContext`x, $CellContext`h] ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`h], \
-{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}]) 
+{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}] 
                    Product[
                     If[
                     
@@ -18384,11 +18379,11 @@ $CellContext`listedIndex},
                     First[$CellContext`listedIndex]] -> 
                    First[$CellContext`payoffProbPair]}] Sum[
                   
-                  If[$CellContext`h == First[$CellContext`listedIndex], 
-                   0, (Part[$CellContext`x, $CellContext`h] ReplaceAll[
+                  If[$CellContext`h == First[$CellContext`listedIndex], 0, 
+                   Part[$CellContext`x, $CellContext`h] ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`h], \
-{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}]) 
+{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}] 
                    Product[
                     If[
                     
@@ -18483,11 +18478,10 @@ $CellContext`listedIndex}, (1/($CellContext`n - 1)) Total[
                     First[$CellContext`listedIndex]], {$CellContext`p[
                     First[$CellContext`listedIndex]] -> 
                     First[$CellContext`payoffProbPair]}] 
-                 Sum[((1 - 
-                    Boole[$CellContext`k == 
+                 Sum[(1 - Boole[$CellContext`k == 
                     First[$CellContext`listedIndex]]) (Part[$CellContext`x, 
                     First[$CellContext`listedIndex]] + 
-                    Part[$CellContext`x, $CellContext`k])) (ReplaceAll[
+                    Part[$CellContext`x, $CellContext`k]) (ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`k], \
 {$CellContext`p[$CellContext`k] -> First[$CellContext`payoffProbPair]}] + 
@@ -18680,66 +18674,64 @@ $CellContext`x3}, $CellContext`report = CreateDocument[{
              TextCell[
               MatrixForm[$CellContext`A], "Text"], 
              TextCell["Dynamic", "Subsection"], 
-             
-             TextCell[(((((((
-                    ReplaceAll[$CellContext`f, {$CellContext`Replicator -> 
-                    "Replicator", $CellContext`Smith -> 
-                    "Smith", $CellContext`BNN -> 
-                    "Brown-von Neumann-Nash", $CellContext`Logit -> 
-                    "Logit", $CellContext`SingleMatchImitativeLogit -> 
-                    "Single-match imitative logit", \
+             TextCell[
+             ReplaceAll[$CellContext`f, {$CellContext`Replicator -> 
+                 "Replicator", $CellContext`Smith -> 
+                 "Smith", $CellContext`BNN -> 
+                 "Brown-von Neumann-Nash", $CellContext`Logit -> 
+                 "Logit", $CellContext`SingleMatchImitativeLogit -> 
+                 "Single-match imitative logit", \
 $CellContext`ImitateIfBetterMin -> 
-                    "Min-if-tie imitate if better", \
+                 "Min-if-tie imitate if better", \
 $CellContext`ImitateIfBetterStickOrUniform -> 
-                    "Stick-or-uniform-if-tie imitate if better", \
+                 "Stick-or-uniform-if-tie imitate if better", \
 $CellContext`SBRMin -> 
-                    "Min-if-tie Sampling Best Response", \
+                 "Min-if-tie Sampling Best Response", \
 $CellContext`SBRStickMin -> 
-                    "Stick-then-min-if-tie Sampling Best Response", \
+                 "Stick-then-min-if-tie Sampling Best Response", \
 $CellContext`SBRStickUnif -> 
-                    "Stick-then-unif-if-tie Sampling Best Response", \
+                 "Stick-then-unif-if-tie Sampling Best Response", \
 $CellContext`SBRUnif -> 
-                    "Uniform-if-tie Sampling Best Response", \
+                 "Uniform-if-tie Sampling Best Response", \
 $CellContext`BEPAllMin -> 
-                    "Test-all min-if-tie Best Experienced Payoff", \
+                 "Test-all min-if-tie Best Experienced Payoff", \
 $CellContext`BEPAllStickMin -> 
-                    "Test-all stick-then-min-if-tie Best Experienced Payoff", \
+                 "Test-all stick-then-min-if-tie Best Experienced Payoff", \
 $CellContext`BEPAllStickUnif -> 
-                    "Test-all stick-then-unif-if-tie Best Experienced \
-Payoff", $CellContext`BEPAllUnif -> 
-                    "Test-all uniform-if-tie Best Experienced Payoff", \
+                 "Test-all stick-then-unif-if-tie Best Experienced Payoff", \
+$CellContext`BEPAllUnif -> 
+                 "Test-all uniform-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoMin -> 
-                    "Test-two min-if-tie Best Experienced Payoff", \
+                 "Test-two min-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoStick -> 
-                    "Test-two stick-if-tie Best Experienced Payoff", \
+                 "Test-two stick-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoUnif -> 
-                    "Test-two uniform-if-tie Best Experienced Payoff"}] <> 
-                    " dynamics with probability of random strategy \[Mu] = ") <> 
-                    ToString[
-                    If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]]) <> 
-                   ", assortativity \[Alpha] = ") <> ToString[
-                    
-                    If[$CellContext`\[Alpha] == 0., 
-                    0, $CellContext`\[Alpha]]]) <> If[
-                   
-                   Or[$CellContext`f === $CellContext`Logit, $CellContext`f === \
+                 "Test-two uniform-if-tie Best Experienced Payoff"}] <> 
+              " dynamics with probability of random strategy \[Mu] = " <> 
+              ToString[
+                If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]] <> 
+              ", assortativity \[Alpha] = " <> ToString[
+                If[$CellContext`\[Alpha] == 0., 0, $CellContext`\[Alpha]]] <> 
+              If[
+                
+                Or[$CellContext`f === $CellContext`Logit, $CellContext`f === \
 $CellContext`SingleMatchImitativeLogit], " and parameter \[Eta] = " <> 
-                   ToString[$CellContext`parameter], ""]) <> If[
-                  
-                  Or[$CellContext`f === $CellContext`SBRMin, $CellContext`f === \
+                ToString[$CellContext`parameter], ""] <> If[
+                
+                Or[$CellContext`f === $CellContext`SBRMin, $CellContext`f === \
 $CellContext`SBRStickMin, $CellContext`f === $CellContext`SBRStickUnif, \
 $CellContext`f === $CellContext`SBRUnif], " and sample size = " <> 
-                  ToString[$CellContext`parameter], ""]) <> If[
-                 
-                 Or[$CellContext`f === $CellContext`ImitateIfBetterMin, \
+                ToString[$CellContext`parameter], ""] <> If[
+                
+                Or[$CellContext`f === $CellContext`ImitateIfBetterMin, \
 $CellContext`f === $CellContext`ImitateIfBetterStickOrUniform, $CellContext`f === \
 $CellContext`BEPAllMin, $CellContext`f === $CellContext`BEPAllStickMin, \
 $CellContext`f === $CellContext`BEPAllStickUnif, $CellContext`f === \
 $CellContext`BEPAllUnif, $CellContext`f === $CellContext`BEPTwoMin, \
 $CellContext`f === $CellContext`BEPTwoStick, $CellContext`f === \
 $CellContext`BEPTwoUnif], " and number of trials = " <> 
-                 ToString[$CellContext`parameter], ""]) <> ". To be precise:",
-               "Text"], 
+                ToString[$CellContext`parameter], ""] <> ". To be precise:", 
+              "Text"], 
              TextCell[
               $CellContext`FixSymbols[MatrixForm[{
                   OverDot[$CellContext`x1, 1], 
@@ -18880,66 +18872,64 @@ $CellContext`x3}, $CellContext`report = CreateDocument[{
               TextCell[
                MatrixForm[$CellContext`A], "Text"], 
               TextCell["Dynamic", "Subsection"], 
-              
-              TextCell[(((((((
-                    ReplaceAll[$CellContext`f, {$CellContext`Replicator -> 
-                    "Replicator", $CellContext`Smith -> 
-                    "Smith", $CellContext`BNN -> 
-                    "Brown-von Neumann-Nash", $CellContext`Logit -> 
-                    "Logit", $CellContext`SingleMatchImitativeLogit -> 
-                    "Single-match imitative logit", \
+              TextCell[
+              ReplaceAll[$CellContext`f, {$CellContext`Replicator -> 
+                  "Replicator", $CellContext`Smith -> 
+                  "Smith", $CellContext`BNN -> 
+                  "Brown-von Neumann-Nash", $CellContext`Logit -> 
+                  "Logit", $CellContext`SingleMatchImitativeLogit -> 
+                  "Single-match imitative logit", \
 $CellContext`ImitateIfBetterMin -> 
-                    "Min-if-tie imitate if better", \
+                  "Min-if-tie imitate if better", \
 $CellContext`ImitateIfBetterStickOrUniform -> 
-                    "Stick-or-uniform-if-tie imitate if better", \
+                  "Stick-or-uniform-if-tie imitate if better", \
 $CellContext`SBRMin -> 
-                    "Min-if-tie Sampling Best Response", \
+                  "Min-if-tie Sampling Best Response", \
 $CellContext`SBRStickMin -> 
-                    "Stick-then-min-if-tie Sampling Best Response", \
+                  "Stick-then-min-if-tie Sampling Best Response", \
 $CellContext`SBRStickUnif -> 
-                    "Stick-then-unif-if-tie Sampling Best Response", \
+                  "Stick-then-unif-if-tie Sampling Best Response", \
 $CellContext`SBRUnif -> 
-                    "Uniform-if-tie Sampling Best Response", \
+                  "Uniform-if-tie Sampling Best Response", \
 $CellContext`BEPAllMin -> 
-                    "Test-all min-if-tie Best Experienced Payoff", \
+                  "Test-all min-if-tie Best Experienced Payoff", \
 $CellContext`BEPAllStickMin -> 
-                    "Test-all stick-then-min-if-tie Best Experienced Payoff", \
+                  "Test-all stick-then-min-if-tie Best Experienced Payoff", \
 $CellContext`BEPAllStickUnif -> 
-                    "Test-all stick-then-unif-if-tie Best Experienced \
-Payoff", $CellContext`BEPAllUnif -> 
-                    "Test-all uniform-if-tie Best Experienced Payoff", \
+                  "Test-all stick-then-unif-if-tie Best Experienced Payoff", \
+$CellContext`BEPAllUnif -> 
+                  "Test-all uniform-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoMin -> 
-                    "Test-two min-if-tie Best Experienced Payoff", \
+                  "Test-two min-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoStick -> 
-                    "Test-two stick-if-tie Best Experienced Payoff", \
+                  "Test-two stick-if-tie Best Experienced Payoff", \
 $CellContext`BEPTwoUnif -> 
-                    "Test-two uniform-if-tie Best Experienced Payoff"}] <> 
-                    " dynamics with probability of random strategy \[Mu] = ") <> 
-                    ToString[
-                    If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]]) <> 
-                    ", assortativity \[Alpha] = ") <> ToString[
-                    
-                    If[$CellContext`\[Alpha] == 0., 
-                    0, $CellContext`\[Alpha]]]) <> If[
-                    
-                    Or[$CellContext`f === $CellContext`Logit, $CellContext`f === \
+                  "Test-two uniform-if-tie Best Experienced Payoff"}] <> 
+               " dynamics with probability of random strategy \[Mu] = " <> 
+               ToString[
+                 If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]] <> 
+               ", assortativity \[Alpha] = " <> ToString[
+                 If[$CellContext`\[Alpha] == 0., 0, $CellContext`\[Alpha]]] <> 
+               If[
+                 
+                 Or[$CellContext`f === $CellContext`Logit, $CellContext`f === \
 $CellContext`SingleMatchImitativeLogit], " and parameter \[Eta] = " <> 
-                    ToString[$CellContext`parameter], ""]) <> If[
-                   
-                   Or[$CellContext`f === $CellContext`SBRMin, $CellContext`f === \
+                 ToString[$CellContext`parameter], ""] <> If[
+                 
+                 Or[$CellContext`f === $CellContext`SBRMin, $CellContext`f === \
 $CellContext`SBRStickMin, $CellContext`f === $CellContext`SBRStickUnif, \
 $CellContext`f === $CellContext`SBRUnif], " and sample size = " <> 
-                   ToString[$CellContext`parameter], ""]) <> If[
-                  
-                  Or[$CellContext`f === $CellContext`ImitateIfBetterMin, \
+                 ToString[$CellContext`parameter], ""] <> If[
+                 
+                 Or[$CellContext`f === $CellContext`ImitateIfBetterMin, \
 $CellContext`f === $CellContext`ImitateIfBetterStickOrUniform, $CellContext`f === \
 $CellContext`BEPAllMin, $CellContext`f === $CellContext`BEPAllStickMin, \
 $CellContext`f === $CellContext`BEPAllStickUnif, $CellContext`f === \
 $CellContext`BEPAllUnif, $CellContext`f === $CellContext`BEPTwoMin, \
 $CellContext`f === $CellContext`BEPTwoStick, $CellContext`f === \
 $CellContext`BEPTwoUnif], " and number of trials = " <> 
-                  ToString[$CellContext`parameter], ""]) <> 
-               ". To be precise:", "Text"], 
+                 ToString[$CellContext`parameter], ""] <> ". To be precise:", 
+               "Text"], 
               TextCell[
                $CellContext`FixSymbols[MatrixForm[{
                    OverDot[$CellContext`x1, 1], 
@@ -19034,10 +19024,10 @@ $CellContext`TrialsSupportingFunctions[$CellContext`x, $CellContext`A, \
 $CellContext`trials, $CellContext`p, $CellContext`\[Alpha]]; MapIndexed[
              
              Function[{$CellContext`listOfPayoffProbPairs, \
-$CellContext`listedIndex}, (2 Part[$CellContext`x, 
-                 First[$CellContext`listedIndex]]) 
-              Sum[(Boole[$CellContext`j != First[$CellContext`listedIndex]] 
-                 Part[$CellContext`x, $CellContext`j]) Total[
+$CellContext`listedIndex}, 2 Part[$CellContext`x, 
+                First[$CellContext`listedIndex]] 
+              Sum[Boole[$CellContext`j != First[$CellContext`listedIndex]] 
+                Part[$CellContext`x, $CellContext`j] Total[
                   Map[
                    Function[$CellContext`payoffProbPair, ReplaceAll[
                     Part[$CellContext`PDFunctions, 
@@ -19080,8 +19070,8 @@ $CellContext`trials, $CellContext`p, $CellContext`\[Alpha]]; MapIndexed[
              Function[{$CellContext`listOfPayoffProbPairs, \
 $CellContext`listedIndex}, Part[$CellContext`x, 
                 First[$CellContext`listedIndex]] 
-              Sum[(Boole[$CellContext`j != First[$CellContext`listedIndex]] 
-                 Part[$CellContext`x, $CellContext`j]) Total[
+              Sum[Boole[$CellContext`j != First[$CellContext`listedIndex]] 
+                Part[$CellContext`x, $CellContext`j] Total[
                   Map[
                    Function[$CellContext`payoffProbPair, ReplaceAll[
                     Part[$CellContext`PDFunctions, 
@@ -19172,9 +19162,9 @@ $CellContext`MMP}, $CellContext`M = ConstantArray[
           Table[
           Part[$CellContext`x, $CellContext`i] 
            Sum[Boole[$CellContext`j != $CellContext`i] 
-             Sum[((Part[$CellContext`P, $CellContext`i, $CellContext`k] 
-                 Part[$CellContext`P, $CellContext`j, $CellContext`m]) 
-                Part[$CellContext`x, $CellContext`j]) ((
+             Sum[Part[$CellContext`P, $CellContext`i, $CellContext`k] 
+               Part[$CellContext`P, $CellContext`j, $CellContext`m] 
+               Part[$CellContext`x, $CellContext`j] ((
                  Exp[Part[$CellContext`A, $CellContext`i, \
 $CellContext`k]/$CellContext`\[Eta]] - Exp[
                  Part[$CellContext`A, $CellContext`j, \
@@ -19199,11 +19189,9 @@ $CellContext`m]/$CellContext`\[Eta]])), {$CellContext`k, 1,
                Table[
                 Diagonal[$CellContext`A], 3]] + (
               1 - $CellContext`\[Alpha]) $CellContext`A, $CellContext`v, \
-$CellContext`bestResponse1}, $CellContext`v = Dot[$CellContext`B, 
-             Total[
-              Map[
-              UnitVector[
-               3, #]& , $CellContext`\[Phi]]]]; $CellContext`bestResponse1 = 
+$CellContext`bestResponse1}, $CellContext`v = 
+           Dot[$CellContext`B, $CellContext`\[Phi]]; \
+$CellContext`bestResponse1 = 
            Table[1, 3] + Sign[$CellContext`v - Max[$CellContext`v]]; 
           Switch[$CellContext`tieBreaker, "min", 
             UnitVector[3, 
@@ -19228,13 +19216,11 @@ $CellContext`bestResponse1}, $CellContext`v = Dot[$CellContext`B,
             Blank[]], 1], 
           Pattern[$CellContext`tieBreaker, 
            Blank[]]] := Total[
-           
-           Map[$CellContext`BRIndicator[$CellContext`x, $CellContext`A, #, \
-$CellContext`\[Alpha], $CellContext`tieBreaker] Apply[Times, 
-              Part[$CellContext`x, #]]& , 
-            
-            Tuples[{1, 2, 
-             3}, $CellContext`k]]] - $CellContext`x; $CellContext`SBRMin[
+           Map[$CellContext`BRIndicator[$CellContext`x, $CellContext`A, 
+              First[#], $CellContext`\[Alpha], $CellContext`tieBreaker] 
+            Last[#]& , 
+            $CellContext`possibleEventsWithProbabilities[$CellContext`k, \
+$CellContext`x]]] - $CellContext`x; $CellContext`SBRMin[
           Pattern[$CellContext`x, 
            Blank[]], 
           Pattern[$CellContext`A, 
@@ -19373,11 +19359,11 @@ $CellContext`listedIndex},
                     First[$CellContext`listedIndex]] -> 
                     First[$CellContext`payoffProbPair]}] Sum[
                    
-                   If[$CellContext`h == First[$CellContext`listedIndex], 
-                    0, (Part[$CellContext`x, $CellContext`h] ReplaceAll[
+                   If[$CellContext`h == First[$CellContext`listedIndex], 0, 
+                    Part[$CellContext`x, $CellContext`h] ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`h], \
-{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}]) 
+{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}] 
                     Product[
                     If[
                     
@@ -19449,11 +19435,11 @@ $CellContext`listedIndex},
                     First[$CellContext`listedIndex]] -> 
                     First[$CellContext`payoffProbPair]}] Sum[
                    
-                   If[$CellContext`h == First[$CellContext`listedIndex], 
-                    0, (Part[$CellContext`x, $CellContext`h] ReplaceAll[
+                   If[$CellContext`h == First[$CellContext`listedIndex], 0, 
+                    Part[$CellContext`x, $CellContext`h] ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`h], \
-{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}]) 
+{$CellContext`p[$CellContext`h] -> First[$CellContext`payoffProbPair]}] 
                     Product[
                     If[
                     
@@ -19653,11 +19639,10 @@ $CellContext`listedIndex}, (1/($CellContext`n - 1)) Total[
                     First[$CellContext`listedIndex]], {$CellContext`p[
                     First[$CellContext`listedIndex]] -> 
                     First[$CellContext`payoffProbPair]}] 
-                  Sum[((1 - 
-                    Boole[$CellContext`k == 
+                  Sum[(1 - Boole[$CellContext`k == 
                     First[$CellContext`listedIndex]]) (Part[$CellContext`x, 
                     First[$CellContext`listedIndex]] + 
-                    Part[$CellContext`x, $CellContext`k])) (ReplaceAll[
+                    Part[$CellContext`x, $CellContext`k]) (ReplaceAll[
                     
                     Part[$CellContext`CDStrictFunctions, $CellContext`k], \
 {$CellContext`p[$CellContext`k] -> First[$CellContext`payoffProbPair]}] + 
@@ -19817,7 +19802,7 @@ $CellContext`PDFunctions}]; Null}; Typeset`initDone$$ = True),
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellLabel->"Out[2]=",ExpressionUUID->"898447f3-091a-4b95-a405-97f2924de5c3"],
+ CellLabel->"Out[3]=",ExpressionUUID->"512c9bea-1bdb-4d3d-97c9-d0d70a5dd7a8"],
 
 Cell[CellGroupData[{
 
@@ -23051,7 +23036,7 @@ g309D47OgxkPzs6D/T48WJ0H+z48WJ0H0/9/8eD/BuY76XI=
             RowBox[{"{", 
              RowBox[{
              "SBRsampleSize", ",", "1", " ", ",", "\"\<sample size\>\""}], 
-             "}"}], ",", "1", ",", "5", ",", "1", " ", ",", 
+             "}"}], ",", "1", ",", "10", ",", "1", " ", ",", 
             RowBox[{"ImageSize", "\[Rule]", "Small"}], " ", ",", 
             RowBox[{"Appearance", "\[Rule]", "\"\<Labeled\>\""}]}], "}"}], 
           "]"}], ",", "\[IndentingNewLine]", 
@@ -24562,60 +24547,25 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
           RowBox[{
            RowBox[{
            "\[Phi]", " ", "is", " ", "a", " ", "vector", " ", "of", " ", 
-            "size", " ", "k", " ", "representing", " ", "a", " ", "sample", 
-            " ", "of", " ", "size", " ", "k"}], ",", " ", 
-           RowBox[{
-            RowBox[{"where", " ", "the", " ", "i"}], "-", 
+            "size", " ", "3", " ", "with", " ", "the", " ", "number", " ", 
+            "of", " ", "times", " ", "that", " ", "each", " ", "strategy", 
+            " ", "has", " ", "been", " ", 
+            RowBox[{"observed", ".", " ", "E", ".", "g", "."}]}], ",", " ", 
+           RowBox[{"for", " ", "sample", " ", 
+            RowBox[{"{", 
+             RowBox[{"1", ",", "1", ",", "2", ",", "1", ",", "3"}], "}"}]}], 
+           ",", " ", 
+           RowBox[{"this", " ", "vector", " ", "would", " ", "be", " ", 
             RowBox[{
-            "th", " ", "element", " ", "of", " ", "the", " ", "vector", " ", 
-             "is", " ", "the", " ", "number", " ", "of", " ", "the", " ", 
-             "strategy", " ", "obtained", " ", "in", " ", "the", " ", "ith", 
-             " ", 
-             RowBox[{"draw", ".", " ", "E", ".", "g", ".", " ", 
-              RowBox[{"{", 
-               RowBox[{"1", ",", "1", ",", "2", ",", "1", ",", "3"}], "}"}]}],
-              " ", "is", " ", "a", " ", "sample", " ", "where", " ", 
-             "strategy", " ", "1", " ", "has", " ", "been", " ", "observed", 
-             " ", "3", " ", "times"}]}], ",", " ", 
-           RowBox[{
-           "and", " ", "strategies", " ", "2", " ", "and", " ", "3", " ", 
-            "have", " ", "been", " ", "observed", " ", "once", " ", 
-            RowBox[{"each", "."}]}]}], " ", "*)"}], "\[IndentingNewLine]", 
+             RowBox[{"{", 
+              RowBox[{"3", ",", "1", ",", "1"}], "}"}], "."}]}]}], " ", 
+          "*)"}], "\[IndentingNewLine]", 
          RowBox[{
           RowBox[{"v", " ", "=", 
-           RowBox[{"B", ".", 
-            RowBox[{"Total", "[", 
-             RowBox[{"Map", "[", 
-              RowBox[{
-               RowBox[{
-                RowBox[{"UnitVector", "[", 
-                 RowBox[{"3", ",", "#"}], "]"}], "&"}], ",", "\[Phi]"}], 
-              "]"}], "]"}]}]}], ";", " ", 
-          RowBox[{"(*", 
-           RowBox[{"payoff", " ", "for", " ", "each", " ", "strategy"}], 
-           "*)"}], "\[IndentingNewLine]", 
+           RowBox[{"B", ".", "\[Phi]"}]}], ";", " ", 
           RowBox[{"(*", " ", 
-           RowBox[{
-            RowBox[{
-             RowBox[{
-              RowBox[{"Total", "[", 
-               RowBox[{"Map", "[", 
-                RowBox[{
-                 RowBox[{
-                  RowBox[{"UnitVector", "[", 
-                   RowBox[{"3", ",", "#"}], "]"}], "&"}], ",", "\[Phi]"}], 
-                "]"}], "]"}], " ", "is", " ", "a", " ", "vector", " ", "of", 
-              " ", "size", " ", "3", " ", "with", " ", "the", " ", "number", 
-              " ", "of", " ", "times", " ", "that", " ", "each", " ", 
-              "strategy", " ", "has", " ", "been", " ", 
-              RowBox[{"observed", ".", " ", "For"}], " ", "\[Phi]"}], "=", 
-             RowBox[{"{", 
-              RowBox[{"1", ",", "1", ",", "2", ",", "1", ",", "3"}], "}"}]}], 
-            ",", " ", 
-            RowBox[{"this", " ", "vector", " ", "would", " ", "be", " ", 
-             RowBox[{"{", 
-              RowBox[{"3", ",", "1", ",", "1"}], "}"}]}]}], " ", "*)"}], 
-          "\[IndentingNewLine]", 
+           RowBox[{"payoff", " ", "for", " ", "each", " ", "strategy"}], " ", 
+           "*)"}], "\[IndentingNewLine]", 
           RowBox[{"bestResponse1", "=", 
            RowBox[{
             RowBox[{"Table", "[", 
@@ -24677,6 +24627,33 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
                RowBox[{"bestResponse1", ",", "Total"}], "]"}]}]}]}], 
            "\[IndentingNewLine]", "]"}]}]}], "\[IndentingNewLine]", "]"}]}], 
       ";", " ", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+      RowBox[{"(*", " ", 
+       RowBox[{
+       "We", " ", "create", " ", "all", " ", "the", " ", "possible", " ", 
+        "vectors", " ", "of", " ", "size", " ", "3", " ", "whose", " ", 
+        "elements", " ", "are", " ", "the", " ", "number", " ", "of", " ", 
+        "times", " ", "that", " ", "each", " ", "strategy", " ", "has", " ", 
+        "been", " ", "observed", " ", "in", " ", "the", " ", "sample", " ", 
+        RowBox[{
+         RowBox[{"(", 
+          RowBox[{
+           RowBox[{"e", ".", "g", "."}], ",", " ", 
+           RowBox[{
+            RowBox[{"{", 
+             RowBox[{"4", ",", "1", ",", "1"}], "}"}], " ", "for", " ", "a", 
+            " ", "sample", " ", "where", " ", "you", " ", "have", " ", 
+            "observed", " ", "stragy", " ", "1", " ", "four", " ", "times", 
+            " ", "and", " ", "strategies", " ", "2", " ", "and", " ", "3", 
+            " ", "once", " ", "each"}]}], ")"}], ".", " ", "The"}], " ", 
+        "sum", " ", "of", " ", "the", " ", "elements", " ", "of", " ", 
+        "these", " ", "vectors", " ", "is", " ", 
+        RowBox[{"k", ".", " ", "We"}], " ", "also", " ", "compute", " ", 
+        "the", " ", "probability", " ", "of", " ", "that", " ", "sample", " ",
+         "being", " ", 
+        RowBox[{"observed", ".", " ", "This"}], " ", "list", " ", "of", " ", 
+        "lists", " ", "is", " ", 
+        RowBox[{"possibleEventsWithProbabilities", "[", 
+         RowBox[{"k", ",", "x"}], "]"}]}], "*)"}], "\[IndentingNewLine]", 
       RowBox[{
        RowBox[{"SBR", "[", 
         RowBox[{"x_", ",", "A_", ",", "\[Alpha]_", ",", 
@@ -24689,19 +24666,13 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
             RowBox[{"(", 
              RowBox[{
               RowBox[{"BRIndicator", "[", 
-               RowBox[{
-               "x", ",", "A", ",", "#", ",", "\[Alpha]", ",", "tieBreaker"}], 
-               "]"}], "*", 
-              RowBox[{"Apply", "[", 
-               RowBox[{"Times", ",", 
-                RowBox[{"x", "[", 
-                 RowBox[{"[", "#", "]"}], "]"}]}], "]"}]}], ")"}], "&"}], ",", 
-           RowBox[{"Tuples", "[", 
-            RowBox[{
-             RowBox[{"{", 
-              RowBox[{"1", ",", "2", ",", "3"}], "}"}], ",", "k"}], "]"}]}], 
-          "]"}], "]"}], "-", "x"}]}], ";", "\[IndentingNewLine]", 
-      "\[IndentingNewLine]", 
+               RowBox[{"x", ",", "A", ",", 
+                RowBox[{"First", "[", "#", "]"}], ",", "\[Alpha]", ",", 
+                "tieBreaker"}], "]"}], "*", 
+              RowBox[{"Last", "[", "#", "]"}]}], ")"}], "&"}], ",", 
+           RowBox[{"possibleEventsWithProbabilities", "[", 
+            RowBox[{"k", ",", "x"}], "]"}]}], "]"}], "]"}], "-", "x"}]}], ";",
+       "\[IndentingNewLine]", "\[IndentingNewLine]", 
       RowBox[{
        RowBox[{"SBRMin", "[", 
         RowBox[{"x_", ",", "A_", ",", "\[Alpha]_", ",", 
@@ -26510,16 +26481,15 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
             "PDFunctions"}], "}"}]}]}], "\[IndentingNewLine]", "]"}]}], ";"}],
       "\[IndentingNewLine]", "\[IndentingNewLine]", ")"}]}]}], 
   "\[IndentingNewLine]", "]"}]], "Input",
- CellLabel->"In[2]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+ CellLabel->"In[3]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
-}, Open  ]]
 },
 ScreenStyleEnvironment->"Working",
 CellGrouping->Manual,
-WindowSize->{1190, 1169},
-WindowMargins->{{37, Automatic}, {Automatic, 13}},
+WindowSize->{1352, 743},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 TrackCellChangeTimes->False,
-FrontEndVersion->"13.2 for Mac OS X x86 (64-bit) (November 18, 2022)",
+FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (November 18, 2022)",
 StyleDefinitions->FrontEnd`FileName[{"Creative"}, "NaturalColor.nb", 
   CharacterEncoding -> "UTF-8"],
 ExpressionUUID->"79b1bd68-2375-4d25-a774-11e08fc38720"
@@ -26538,116 +26508,116 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[1257, 32, 81, 0, 61, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
 Cell[1341, 34, 629, 20, 38, "Subtitle",ExpressionUUID->"c414d9db-7737-4bde-8abd-eaa0928aedb2"],
-Cell[1973, 56, 368, 8, 30, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"],
-Cell[2344, 66, 1127330, 19753, 690, "Output",ExpressionUUID->"898447f3-091a-4b95-a405-97f2924de5c3"],
+Cell[1973, 56, 368, 8, 30, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
+}, Open  ]],
+Cell[2356, 67, 1126736, 19737, 690, "Output",ExpressionUUID->"512c9bea-1bdb-4d3d-97c9-d0d70a5dd7a8"],
 Cell[CellGroupData[{
-Cell[1129699, 19823, 146, 3, 73, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
+Cell[1129117, 19808, 146, 3, 73, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1129848, 19828, 1366, 21, 182, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
+Cell[1129266, 19813, 1366, 21, 182, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
 Cell[CellGroupData[{
-Cell[1131239, 19853, 87, 0, 35, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
+Cell[1130657, 19838, 87, 0, 35, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
 Cell[CellGroupData[{
-Cell[1131351, 19857, 87, 0, 25, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
-Cell[1131441, 19859, 885, 18, 74, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
+Cell[1130769, 19842, 87, 0, 25, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
+Cell[1130859, 19844, 885, 18, 74, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1132363, 19882, 93, 0, 19, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
-Cell[1132459, 19884, 1416, 27, 131, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
-Cell[1133878, 19913, 819, 24, 40, "Text",ExpressionUUID->"04c64329-d55b-403a-ad49-8ba652708c76"]
+Cell[1131781, 19867, 93, 0, 19, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
+Cell[1131877, 19869, 1416, 27, 131, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
+Cell[1133296, 19898, 819, 24, 40, "Text",ExpressionUUID->"04c64329-d55b-403a-ad49-8ba652708c76"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1134734, 19942, 146, 3, 19, "Subsubsection",ExpressionUUID->"9e21d07a-5e5e-40f2-a392-7b45d86083ab",
+Cell[1134152, 19927, 146, 3, 19, "Subsubsection",ExpressionUUID->"9e21d07a-5e5e-40f2-a392-7b45d86083ab",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1134883, 19947, 126, 0, 30, "Text",ExpressionUUID->"1548dffe-6351-46cd-bf94-80a8ee2eb1a0"],
+Cell[1134301, 19932, 126, 0, 30, "Text",ExpressionUUID->"1548dffe-6351-46cd-bf94-80a8ee2eb1a0"],
 Cell[CellGroupData[{
-Cell[1135034, 19951, 1074, 32, 53, "Item",ExpressionUUID->"f994598c-b819-4bc6-b0f3-d460d328e142",
+Cell[1134452, 19936, 1074, 32, 53, "Item",ExpressionUUID->"f994598c-b819-4bc6-b0f3-d460d328e142",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[1136111, 19985, 730, 23, 34, "Text",ExpressionUUID->"f5756060-92ec-4e2e-9bb5-3b10d06255b1",
+Cell[1135529, 19970, 730, 23, 34, "Text",ExpressionUUID->"f5756060-92ec-4e2e-9bb5-3b10d06255b1",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1136878, 20013, 640, 18, 51, "Item",ExpressionUUID->"3211b705-ab90-4f31-95c0-85ad516325a3",
+Cell[1136296, 19998, 640, 18, 51, "Item",ExpressionUUID->"3211b705-ab90-4f31-95c0-85ad516325a3",
  CellGroupingRules->{"GroupTogetherGrouping", 10001.}],
-Cell[1137521, 20033, 1194, 36, 40, "Text",ExpressionUUID->"665342cc-5bcc-4b95-a952-857847d343d6",
+Cell[1136939, 20018, 1194, 36, 40, "Text",ExpressionUUID->"665342cc-5bcc-4b95-a952-857847d343d6",
  CellGroupingRules->{"GroupTogetherGrouping", 10001.}],
-Cell[1138718, 20071, 1019, 35, 32, "Text",ExpressionUUID->"5b33a529-729d-4f1b-b157-c1dfcc0f3515",
+Cell[1138136, 20056, 1019, 35, 32, "Text",ExpressionUUID->"5b33a529-729d-4f1b-b157-c1dfcc0f3515",
  CellGroupingRules->{"GroupTogetherGrouping", 10001.}]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1139774, 20111, 658, 18, 54, "Item",ExpressionUUID->"9521a366-e960-4b0e-a9c2-58c4a2820b33",
+Cell[1139192, 20096, 658, 18, 54, "Item",ExpressionUUID->"9521a366-e960-4b0e-a9c2-58c4a2820b33",
  CellGroupingRules->{"GroupTogetherGrouping", 10002.}],
-Cell[1140435, 20131, 1047, 32, 40, "Text",ExpressionUUID->"8c08140a-c10b-44c0-95f5-8341a124dc02",
+Cell[1139853, 20116, 1047, 32, 40, "Text",ExpressionUUID->"8c08140a-c10b-44c0-95f5-8341a124dc02",
  CellGroupingRules->{"GroupTogetherGrouping", 10002.}]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1141519, 20168, 908, 28, 54, "Item",ExpressionUUID->"b4bea3cb-ea99-4dd2-817c-314146658899",
+Cell[1140937, 20153, 908, 28, 54, "Item",ExpressionUUID->"b4bea3cb-ea99-4dd2-817c-314146658899",
  CellGroupingRules->{"GroupTogetherGrouping", 10003.}],
-Cell[1142430, 20198, 1088, 33, 62, "Text",ExpressionUUID->"a8dfd50b-95ed-467e-a02a-5b08b67e0771",
+Cell[1141848, 20183, 1088, 33, 62, "Text",ExpressionUUID->"a8dfd50b-95ed-467e-a02a-5b08b67e0771",
  CellGroupingRules->{"GroupTogetherGrouping", 10003.}],
-Cell[1143521, 20233, 493, 12, 49, "Text",ExpressionUUID->"f9312466-dfc3-47ba-a64e-1c3aabecf50f",
+Cell[1142939, 20218, 493, 12, 49, "Text",ExpressionUUID->"f9312466-dfc3-47ba-a64e-1c3aabecf50f",
  CellGroupingRules->{"GroupTogetherGrouping", 10003.}]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1144051, 20250, 1607, 43, 82, "Item",ExpressionUUID->"8b08828d-87da-4513-8cc8-0759272bb2ea",
+Cell[1143469, 20235, 1607, 43, 82, "Item",ExpressionUUID->"8b08828d-87da-4513-8cc8-0759272bb2ea",
  CellGroupingRules->{"GroupTogetherGrouping", 10004.}],
-Cell[1145661, 20295, 2012, 56, 62, "Text",ExpressionUUID->"996bbe4e-a3ab-4d39-af15-f02b408a9ddd",
+Cell[1145079, 20280, 2012, 56, 62, "Text",ExpressionUUID->"996bbe4e-a3ab-4d39-af15-f02b408a9ddd",
  CellGroupingRules->{"GroupTogetherGrouping", 10004.}]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1147710, 20356, 2424, 64, 171, "Item",ExpressionUUID->"d01f0cca-9ed0-4e54-87a3-9e70533112b0",
+Cell[1147128, 20341, 2424, 64, 171, "Item",ExpressionUUID->"d01f0cca-9ed0-4e54-87a3-9e70533112b0",
  CellGroupingRules->{"GroupTogetherGrouping", 10005.}],
-Cell[1150137, 20422, 1997, 56, 44, "Text",ExpressionUUID->"3327925d-bbbd-4ec0-bba8-2090807490cd",
+Cell[1149555, 20407, 1997, 56, 44, "Text",ExpressionUUID->"3327925d-bbbd-4ec0-bba8-2090807490cd",
  CellGroupingRules->{"GroupTogetherGrouping", 10005.}],
-Cell[1152137, 20480, 276, 8, 30, "Text",ExpressionUUID->"b5c86340-517e-49ee-8848-6265e0bc148e",
+Cell[1151555, 20465, 276, 8, 30, "Text",ExpressionUUID->"b5c86340-517e-49ee-8848-6265e0bc148e",
  CellGroupingRules->{"GroupTogetherGrouping", 10005.}],
-Cell[1152416, 20490, 1677, 49, 44, "Text",ExpressionUUID->"d4640f8e-a76c-4cc3-a331-00fefb55043c",
+Cell[1151834, 20475, 1677, 49, 44, "Text",ExpressionUUID->"d4640f8e-a76c-4cc3-a331-00fefb55043c",
  CellGroupingRules->{"GroupTogetherGrouping", 10005.}]
 }, Closed]],
-Cell[1154108, 20542, 3203, 76, 299, "Item",ExpressionUUID->"652dedd1-ce12-4253-995e-d33bc89c5358"],
+Cell[1153526, 20527, 3203, 76, 299, "Item",ExpressionUUID->"652dedd1-ce12-4253-995e-d33bc89c5358"],
 Cell[CellGroupData[{
-Cell[1157336, 20622, 3698, 86, 357, "Item",ExpressionUUID->"87b78335-84cb-4eb0-9667-fc4e5a07d808",
+Cell[1156754, 20607, 3698, 86, 357, "Item",ExpressionUUID->"87b78335-84cb-4eb0-9667-fc4e5a07d808",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[1161037, 20710, 704, 22, 34, "Text",ExpressionUUID->"4684f90c-5ff7-4d67-ab63-6bd98a5f4b25",
+Cell[1160455, 20695, 704, 22, 34, "Text",ExpressionUUID->"4684f90c-5ff7-4d67-ab63-6bd98a5f4b25",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
 }, Closed]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1161790, 20738, 169, 3, 25, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
+Cell[1161208, 20723, 169, 3, 25, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1161962, 20743, 662, 17, 51, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
-Cell[1162627, 20762, 961, 29, 42, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
+Cell[1161380, 20728, 662, 17, 51, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
+Cell[1162045, 20747, 961, 29, 42, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1163625, 20796, 151, 3, 19, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
+Cell[1163043, 20781, 151, 3, 19, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1163779, 20801, 700, 13, 70, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
+Cell[1163197, 20786, 700, 13, 70, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1164516, 20819, 153, 3, 19, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
+Cell[1163934, 20804, 153, 3, 19, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1164672, 20824, 210, 3, 50, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
+Cell[1164090, 20809, 210, 3, 50, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1164919, 20832, 176, 3, 19, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
+Cell[1164337, 20817, 176, 3, 19, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1165098, 20837, 590, 13, 50, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
+Cell[1164516, 20822, 590, 13, 50, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
 }, Closed]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1165737, 20856, 142, 3, 27, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
+Cell[1165155, 20841, 142, 3, 27, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1165882, 20861, 987, 15, 144, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
+Cell[1165300, 20846, 987, 15, 144, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
 }, Closed]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1166918, 20882, 88, 0, 43, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[1167009, 20884, 2639, 57, 581, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[1166336, 20867, 88, 0, 43, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[1166427, 20869, 2639, 57, 581, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1169685, 20946, 85, 0, 43, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[1169773, 20948, 250221, 5564, 21078, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[1169103, 20931, 85, 0, 43, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[1169191, 20933, 249868, 5550, 20140, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
-}, Open  ]]
 }
 ]
 *)
